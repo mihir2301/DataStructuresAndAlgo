@@ -39,6 +39,6 @@ int main(){
     cout<<"Element not present";
     return 0;
     }
-    cout<<"First Occurence"<<first<<endl;
+    cout<<"First Occurence "<<first<<endl;
     cout<<"Second Occurence"<<last-1;
 }
